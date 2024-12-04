@@ -76,8 +76,8 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 
 ## Curriculum
 
-- [Introduction to Data Science](#introduction-to-data-science)
-- [Introduction to Computer Science](#introduction-to-computer-science)
+- ✅[Introduction to Data Science](#introduction-to-data-science)
+- ✅[Introduction to Computer Science](#introduction-to-computer-science)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Databases](#databases)
 - [Single Variable Calculus](#single-variable-calculus)
